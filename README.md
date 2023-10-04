@@ -1,5 +1,5 @@
 # LandingZoneDeliveryAccelerator
-#### The Landing Zone Delivery Accelerator provides guidelines and guardrails for a consistent delivery within the Federal Government.
+#### The Landing Zone Delivery Accelerator provides oversight with guidelines and guardrails for a consistent delivery within the Federal Government.
 #### Within the documents folder you will find a Playbook that provides perscriptive guidance for a consistent delivery as well as outcomes.
 
 #### You can find the actual Mission Lading Zone Accelerator by visiting the following URL [Azure Mission Landing Zone](https://github.com/Azure/missionlz) to deploy on demand.
